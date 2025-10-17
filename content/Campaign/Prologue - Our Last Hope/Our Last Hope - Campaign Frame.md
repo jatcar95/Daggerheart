@@ -12,11 +12,11 @@ Avatar The Last Airbender. A Song of Ice and Fire, The Fifth Season, The Dragon 
 # Overview
 *Give your players the following information before character creation.*
 
-On the war-torn continent of [[The Meld]], the time for solving problems has passed. Once in the not so distant past, people had hope. The engineers of [[Ravaldia]] discovered the steam engine, the druids of the North Marshes experimented with innovative ways of growing crops, and the [[Pact of Martoghast]] defied death with their healing magic. The old fears of war and scarcity faded. 
+On the war-torn continent of [[The Meld]], the time for solving problems has passed. Once in the not so distant past, people had hope. The engineers of [[Ravaldia]] discovered the steam engine, the druids of the [[North Marshes]] experimented with innovative ways of growing crops, and the [[Pact of Martoghast]] defied death with their healing magic. The old fears of war and scarcity faded. 
 
 But the leaders of [[Ravaldia]] yearned not for peace, but for power. A decade ago, a violent coup saw the city’s council dispatched and a powerful mage, [[Yarticus Triconocule]], crowned in their place. Soon after, the invasions began. “They hoard the food our citizens need,” [[Yarticus Triconocule|Triconocule]] said of the Marshes. “They withhold aid as political leverage,” he said of the Pact.” And so the banners were called, and the Mage Emperor of [[Ravaldia]] began his conquest. 
 
-Bloody years of fighting followed that left the land scarred with the calamitous effects of magical warfare. The Marshes burned, the Pact was infiltrated by Ravaldian loyalists and turned into a secret police force. The resistance coalesced around the city of Dark Gulch, where surviving druids of the North Marshes joined forces with exiled nobles and the city’s Thieve’s Guild to make a stand. 
+Bloody years of fighting followed that left the land scarred with the calamitous effects of magical warfare. The Marshes burned, the Pact was infiltrated by Ravaldian loyalists and turned into a secret police force. The resistance coalesced around the city of [[Dark Gulch]], where surviving druids of the [[North Marshes]] joined forces with exiled nobles and the city’s Thieve’s Guild to make a stand. 
 
 With their skills in sabotage, the Gulchers were able to destroy many of the factories of [[Ravaldia]], halting their march across the continent and leaving the opposing forces in a bloody stalemate that lingers to this day. With technology shattered, the environment scorched, and healing magic turned towards destruction, people lost hope. Food shortages and famine abounds, and most people care not who wins the war - they wish only to survive. 
 # Communities
@@ -32,7 +32,7 @@ Knowledge is the last bastion of hope in [[The Meld]]. Researches furiously sear
 - What ideals have you been forced to give up to access the resources you need to do your work?
 - What problems do you feel you have the knowledge to solve, and how do you struggle to put it into practice?
 ### Orderborne
-The Orderborne are often the ones marshalling the masses to follow the directives of their leaders. In [[The Meld]], they often take the form of soldiers, priests, and local leaders. Perhaps you were a captain in the Ravaldian military who swiftly rose through the ranks, or the assistant of a Dark Gulch aristocrat who helped oversee some aspect of the resistance.
+The Orderborne are often the ones marshalling the masses to follow the directives of their leaders. In [[The Meld]], they often take the form of soldiers, priests, and local leaders. Perhaps you were a captain in the Ravaldian military who swiftly rose through the ranks, or the assistant of a [[Dark Gulch]] aristocrat who helped oversee some aspect of the resistance.
 - What regrets do you carry with you from your conquest of foreign soil?
 - What lines are you willing to cross to protect the people you love?
 - How do you see the tenets you grew up with being changed or broken as tensions rise?
@@ -49,7 +49,7 @@ While war has affected nearly everyone on the continent, those who live on the f
 ### Wanderborne
 The Wanderborne in [[The Meld]] are perhaps the community most aware of how the land has changed in the past decade. Their nomadic lifestyle means they've seen many cultures throughout the continent both before and after war ravaged them - and they know how much more dangerous travel has become.
 - You used to travel with a companion. Who were they, and how do you remain connected?
-- Because of your community’s transience, you have loved ones in both [[Ravaldia]] and Dark Gulch. How has this affected your relationship with the invasion?
+- Because of your community’s transience, you have loved ones in both [[Ravaldia]] and [[Dark Gulch]]. How has this affected your relationship with the invasion?
 - How has the growing conflict altered your community’s travels?
 # Ancestries
 ### Clank
