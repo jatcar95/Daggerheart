@@ -9,10 +9,8 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-/content/**
-
-!/content/index.md
-!/content/
-!/content/Campaign/
-# !/content/Campaign/Prologue - Our Last Hope/
-# !/content/Campaign/Prologue - Our Last Hope/Our Last Hope - Campaign Frame.md
+/content/*
+!/content/Campaign
+/content/Campaign/*
+!/content/Campaign/Prologue - Our Last Hope
+/content/Campaign/Prologue - Our Last Hope/GM Only/*
