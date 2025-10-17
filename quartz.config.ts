@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "www.jdowell.app",
-    ignorePatterns: ["private", "templates", ".obsidian", "z.Attachments"],
+    ignorePatterns: ["private", "templates", ".obsidian", "z.Attachments", "GM Only"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
