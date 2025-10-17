@@ -10,3 +10,5 @@ private/
 .replit
 replit.nix
 content/
+!content/index.md
+!content/Campaign/Prologue - What Is Hope/What Is Hope - Campaign Frame
