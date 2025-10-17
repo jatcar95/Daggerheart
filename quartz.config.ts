@@ -9,14 +9,14 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Welcome To The Meld",
-    pageTitleSuffix: "A Daggerheart Adventure",
+    pageTitleSuffix: ": A Daggerheart Adventure",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "www.jdowell.app",
     ignorePatterns: ["private", "templates", ".obsidian", "z.Attachments"],
     defaultDateType: "modified",
     theme: {
