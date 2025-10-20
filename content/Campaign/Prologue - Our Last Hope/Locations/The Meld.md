@@ -7,4 +7,6 @@ In the center of The Meld lies its greatest city, [[Ravaldia]], along its greate
 
 South of the [[Sistlik Peaks]] lies the [[North Marshes]], a region of vast swamps and marshland, where a flourishing community lives alongside and within nature. 
 
-Other notable features include the ancient crags of the long-extinct [[Dormu Range]]. A deeply forested area, the [[Dormu Range]] includes vast canyons and breathtaking views, and is home to the city of [[Dark Gulch]] nestled deeply within one such canyon. 
+Other notable features include the ancient crags of the long-extinct [[Dormu Range]] in the south. A deeply forested area, the [[Dormu Range]] includes vast canyons and breathtaking views, and is home to the city of [[Dark Gulch]] nestled deeply within one such canyon. 
+
+[[The Highlands]] in the west are another geographical area of note. Sheer cliffs form the face of the enormous plateau, and a barren wasteland covers its surface. [[The Highlands]] overlook the nearby city of [[Kersh]].
