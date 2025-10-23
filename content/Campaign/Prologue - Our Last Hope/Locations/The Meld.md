@@ -3,7 +3,7 @@ publish: "true"
 ---
 A continent of sweeping plains, vast forests, towering mountains, and great inland seas, The Meld is a beautiful and harsh land. 
 
-In the center of The Meld lies its greatest city, [[Ravaldia]], along its greatest river, the [[Attlestone River]], which sweeps from the [[Sistlik Peaks]] in the northeast to the [[Galled Sea]] in the south. 
+In the center of The Meld amidst sprawling plains lies its greatest city, [[Ravaldia]], along its greatest river, the [[Attlestone River]], which sweeps from the [[Sistlik Peaks]] in the northeast to the [[Galled Sea]] in the south. 
 
 South of the [[Sistlik Peaks]] lies the [[North Marshes]], a region of vast swamps and marshland, where a flourishing community lives alongside and within nature. 
 

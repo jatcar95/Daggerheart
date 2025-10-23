@@ -56,33 +56,38 @@ The Wanderborne in [[The Meld]] are perhaps the community most aware of how the 
 Most clanks in [[The Meld]] are the result of Ravaldian innovation and production capabilities, being made of iron and copper, and powered by small internal steam engines. Many of these are designed for warfare or dangerous factory jobs. However, the ability to produce clanks is not limited to just [[Ravaldia]], and many alternate forms exist. 
 ### Drakona
 A drakona's breath means significantly lower startup costs for creating a laboratory, and many used to find themselves in research and manufacturing careers. This led to a tendency toward fire breath, though all elemental breaths are present in some capacity. 
+### Elves and Infernis
+Being among the elder ancestries, these communities tend to be more rooted, aristocratic, and conservative than others, though this is certainly not a rule. Thus, they are found more often in positions of power in old cities like [[Dark Gulch]] and [[Ravaldia]].
 ### Faerie
-Due to their connection with nature, faeries have found themselves generally aligned against [[Ravaldia]] and its machines. Due to their small stature and ability to fly, however, plenty have taken up jobs as scouts or assassins for all sides of the war.
+Due to their connection with nature, faeries have found themselves generally aligned against [[Ravaldia]] and its machines. Due to their small stature and ability to fly, however, plenty have taken up jobs as scouts or assassins for all sides of the war. They have communities scattered throughout [[The Meld]], usually adjacent to major population centers but not directly within them.
 ### Firbolg
-Due to their muscular stature, firbolgs are often conscripted to fight in wars.
+Due to their muscular stature, firbolgs are often conscripted to fight in wars. Their communities are especially prevalent on the plains surrounding [[Ravaldia]].
 ### Fungril
 Fungril make up the ultimate spy network, being able to communicate nearly instantly across any distance. As such, many special languages and codes have been created to aid in espionage.
 ### Galapa
-With their tough defensive abilities, galapas are often conscripted to fight in wars. Due to their relatively peaceful character and their connection with nature, they tend to spur the more industrial-focused Ravaldians.
-
-Giant
-Goblin
-Halfling
-Human
-Infernis
-Katari
-Orc
-Ribbet
-Simiah
-
-# Classes
-
+With their tough defensive abilities, galapas are often conscripted to fight in wars. Due to their relatively peaceful character and their connection with nature, they tend to spur the more industrial-focused Ravaldians. Galapas tend to congregate in wet, swampy areas such as the [[North Marshes]]. 
+### Giant
+Giants tend to be left out of consideration for architecture designed for more populous ancestries. Because of this, their largest communities have ended up being nomadic. They've managed to mostly avoid being conscripted into armies, but are still highly sought-after for their strength and prowess in battle.
+### Goblins and Humans
+Goblins and humans are both highly versatile and adaptable ancestries that are found throughout [[The Meld]] in large numbers. 
+### Halfling
+Halflings tend to be nomadic due to their excellent navigational skills, and are employed as scouts and guides in war.
+### Ribbet
+Because of their dependency on water for their lifecycle, large "nursery" communities of ribbets exist in the [[North Marshes]] and near large, still bodies of water. However, many ribbets tend to become solitary after reaching adulthood, and thus can be found throughout [[The Meld]].
+### Simiah
+While the forest is the natural habitat of a simiah, cities make an equally-ideal home for them. Due to their natural climbing abilities, they are often found in construction crews building at perilous heights. 
 # Player Principles
-
+- Make the war personal: Consider how [[Ravaldia]]’s invasions in [[The Meld]] deeply impact your character. Let these details inform what they want and what they’re willing to do to get it. Everyone has lost a loved one to war or famine, and more are dying by the day. Consider how the growing conflict caused your character to act in ways they aren’t proud of, or transformed personal truths they once believed were unshakable.
+- Treat death with importance: Taking a life should not be done without consideration, desperation, and consequences. As your character journeys, they should remember those they’ve lost and those they’ve slain, allowing each death to affect their choices in the future.
+- Embrace vulnerability: Find your character’s humanity and showcase it whenever you can. They should be as vulnerable during quiet moments as they are vicious during violent ones, opening up to their allies even if they close themself off to everyone else.
 # GM Principles
-
+- Offer alternatives to violence: By illuminating nonviolent approaches to problem-solving, the PCs can help break the brutal cycle that binds this world. Give the PCs opportunities to mend old wounds and right past wrongs.
+- Create multidimensional allies and adversaries: No adversary or ally is all good or all bad, and they each have multidimensional lives. Even the most congenial ally should be hiding darkness inside them, hoping their failings will go undiscovered. Those painted as evil should sometimes do the right thing, even if it’s for the wrong reason. Just because a PC or NPC is from [[Ravaldia]] doesn’t make them a villain, and, conversely, not all the inhabitants of [[Dark Gulch]] or the [[North Marshes]] are virtuous. Finding the nuance, complications, and deeper motivations of the people of [[The Meld]] will lead to richer interactions, more complex moral choices, and a deeper sense of attachment to the world for the players.
 # Distinctions
+### Gods and Religion
+The line between the mundane and the divine is much more muddled in [[The Meld]] than it is in our world. Simply the occurrence of magic poses many difficult philosophical and theological questions. However, gods are not as tangible as they are in 5e - they do not speak directly to people (though some claim they do) and they do not walk among us. Whether they exist is a personal question each person must answer.
 
+If you'd like to add some theology to your character or backstory, please be my guest! What religion or god do you worship and why? How has it affected your character's view of the world?
 # Inciting Incident
 
 # Campaign Mechanics
